@@ -3,4 +3,4 @@ post_title: 'Post Title'
 layout: post
 published: true
 ---
-Post goes here.
+Post goes here (test).

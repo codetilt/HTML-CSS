@@ -1,0 +1,9 @@
+$(window).load(function(){
+ var $container = $('.portfolioContainer').isotope({ filter: '.Website' });
+ $container.isotope({
+     animationOptions: {
+         duration: 750,
+         easing: 'linear',
+         queue: false
+     }
+ });*
